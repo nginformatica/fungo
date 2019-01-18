@@ -16,7 +16,7 @@ bug-reports: "https://github.com/nginformatica/fungo/issues"
 homepage: "https://github.com/nginformatica"
 tags: [ "functional-programming" ]
 build: [
-  [ "dune" "build" "-p" name ]
+  [ "dune" "build" "-p" "fungo" ]
 ]
 depends: [
   "dune"  {build}
