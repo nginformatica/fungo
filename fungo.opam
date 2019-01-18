@@ -12,6 +12,8 @@ authors: [
 ]
 license: "MIT"
 dev-repo: "git+https://github.com/nginformatica/fungo.git"
+bug-reports: "https://github.com/nginformatica/fungo/issues"
+homepage: "https://github.com/nginformatica"
 tags: [ "functional-programming" ]
 build: [
   [ "dune" "build" "-p" name ]
