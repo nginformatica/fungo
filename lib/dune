@@ -1,0 +1,4 @@
+(executable
+  (name fungo)
+  (public_name fungo)
+  (modules fungo))

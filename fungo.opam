@@ -1,0 +1,21 @@
+opam-version: "2.0"
+name: "fungo"
+version: "0.1"
+synopsis: "A set of functions for point-free programming in OCaml"
+description:"""
+Fungo provides a set of functions to work with point-free programming in a
+Haskellish style.
+"""
+maintainer: "Marcelo Camargo <marcelo.camargo@ngi.com.br>"
+authors: [
+  "Marcelo Camargo <marcelo.camargo@ngi.com.br>"
+]
+license: "MIT"
+dev-repo: "git+https://github.com/nginformatica/fungo.git"
+tags: [ "functional-programming" ]
+build: [
+  [ "dune build" ]
+]
+depends: [
+  "ocaml"
+]
