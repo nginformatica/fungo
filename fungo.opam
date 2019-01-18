@@ -14,6 +14,7 @@ license: "MIT"
 dev-repo: "git+https://github.com/nginformatica/fungo.git"
 bug-reports: "https://github.com/nginformatica/fungo/issues"
 homepage: "https://github.com/nginformatica"
+doc: "https://nginformatica.github.io/fungo/fungo/Fungo/index.html"
 tags: [ "functional-programming" ]
 build: [
   [ "dune" "build" "-p" "fungo" ]
