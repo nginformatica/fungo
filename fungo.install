@@ -1,7 +1,19 @@
 lib: [
   "_build/install/default/lib/fungo/META" {"META"}
+  "_build/install/default/lib/fungo/fungo.a" {"fungo.a"}
+  "_build/install/default/lib/fungo/fungo.cma" {"fungo.cma"}
+  "_build/install/default/lib/fungo/fungo.cmi" {"fungo.cmi"}
+  "_build/install/default/lib/fungo/fungo.cmt" {"fungo.cmt"}
+  "_build/install/default/lib/fungo/fungo.cmti" {"fungo.cmti"}
+  "_build/install/default/lib/fungo/fungo.cmx" {"fungo.cmx"}
+  "_build/install/default/lib/fungo/fungo.cmxa" {"fungo.cmxa"}
+  "_build/install/default/lib/fungo/fungo.cmxs" {"fungo.cmxs"}
+  "_build/install/default/lib/fungo/fungo.dune" {"fungo.dune"}
+  "_build/install/default/lib/fungo/fungo.ml" {"fungo.ml"}
+  "_build/install/default/lib/fungo/fungo.mli" {"fungo.mli"}
   "_build/install/default/lib/fungo/opam" {"opam"}
 ]
-bin: [
-  "_build/install/default/bin/fungo" {"fungo"}
+doc: [
+  "_build/install/default/doc/fungo/LICENSE"
+  "_build/install/default/doc/fungo/README.md"
 ]
